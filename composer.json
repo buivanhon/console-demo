@@ -1,0 +1,12 @@
+{
+    "name": "demo/console",
+    "description": "The console component",
+    "require": {
+        "symfony/console": "^4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
